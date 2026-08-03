@@ -14,7 +14,7 @@
         <number name="createdDate" type="Long">1785754808888</number>
         <value name="lastModifiedBy">Sanjib.Chakraborty@ibm.com</value>
         <value name="lastModifiedByUserId">dca85332dc174c2e93a4759518b0ac2f</value>
-        <number name="lastModifiedDate" type="Long">1785754815602</number>
+        <number name="lastModifiedDate" type="Long">1785754822703</number>
       </record>
       <Boolean name="wMIODocTypeReplica">true</Boolean>
     </record>
@@ -46,6 +46,7 @@
       <record javaclass="com.wm.util.Values">
         <value name="node_type">field</value>
         <value name="node_subtype">unknown</value>
+        <value name="node_nsName">Field39</value>
         <value name="node_comment"></value>
         <record name="node_hints" javaclass="com.wm.util.Values">
           <value name="field_largerEditor">false</value>
@@ -54,12 +55,14 @@
           <value name="id">Field39</value>
         </record>
         <value name="is_public">false</value>
+        <value name="label">Field39</value>
         <value name="field_name">Field39</value>
-        <value name="field_type">string</value>
+        <value name="field_type">recref</value>
         <value name="field_dim">0</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
+        <value name="modifiable">true</value>
       </record>
       <record javaclass="com.wm.util.Values">
         <value name="node_type">field</value>
