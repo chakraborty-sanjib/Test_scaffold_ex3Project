@@ -14,7 +14,7 @@
         <number name="createdDate" type="Long">1785754808888</number>
         <value name="lastModifiedBy">Sanjib.Chakraborty@ibm.com</value>
         <value name="lastModifiedByUserId">dca85332dc174c2e93a4759518b0ac2f</value>
-        <number name="lastModifiedDate" type="Long">1785754832129</number>
+        <number name="lastModifiedDate" type="Long">1785754841639</number>
       </record>
       <Boolean name="wMIODocTypeReplica">true</Boolean>
     </record>
@@ -58,10 +58,11 @@
         <value name="label">Field39</value>
         <value name="field_name">Field39</value>
         <value name="field_type">recref</value>
-        <value name="field_dim">0</value>
+        <value name="field_dim">1</value>
         <value name="nillable">true</value>
         <value name="form_qualified">false</value>
         <value name="is_global">false</value>
+        <value name="is_soap_array_encoding_used">true</value>
         <value name="modifiable">true</value>
       </record>
       <record javaclass="com.wm.util.Values">
